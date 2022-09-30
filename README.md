@@ -4,7 +4,7 @@
 
 ## Visualization of the Website
 
-![image](https://user-images.githubusercontent.com/106506769/193252400-f6c14045-49e7-45d1-8890-56ac4b7ec37c.png)
+![image](https://github.com/SkyCooper/IosCalculator/blob/main/calculator.gif)
 
 ## Description
 Project aims to create a calculator app.
