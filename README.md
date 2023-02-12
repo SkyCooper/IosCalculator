@@ -7,28 +7,29 @@
 ![image](https://github.com/SkyCooper/IosCalculator/blob/main/calculator.gif)
 
 ## Description
+
 Project aims to create a calculator app.
 
 ## Learning Outcomes
 
 At the end of the this project, you will be able to;
 
-- analyze a problem,
+-   analyze a problem,
 
-- demonstrate your knowledge of algorithmic design principles,
+-   demonstrate your knowledge of algorithmic design principles,
 
-- create a calculator.
+-   create a calculator.
 
+## Project Skeleton
 
-## Project Skeleton 
+|----IOS Calculator App
 
-|----Weather Condition App
-
-        |----index.html  
-        |----style.css   
+        |----index.html
+        |----style.css
         |----calculator.js
         |----calculator.gif
-        |----readme.md 
+        |----readme.md
 
 ### Overview
+
 I mastered HTML, CSS and Javascript features in this project. You can see the visual representation of the website above.
